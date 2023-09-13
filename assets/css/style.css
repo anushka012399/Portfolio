@@ -1516,6 +1516,14 @@ pre {
     font-size: 20px;
     line-height: 1.1;
   }
+  .navigation-2 .nav-link {
+    padding: 13px 20px !important;
+    color: #ff3d4f !important;
+  }
+  .fa-bars:before {
+    content: "\f0c9";
+    color: #ff3d4f;
+  }
 }
 
 /*# sourceMappingURL=maps/style.css.map */
