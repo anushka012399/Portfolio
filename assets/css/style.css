@@ -1512,6 +1512,10 @@ pre {
     background: #000a2d;
     padding-top: 120px;
   }
+  .banner .banner-content h1 {
+    font-size: 20px;
+    line-height: 1.1;
+  }
 }
 
 /*# sourceMappingURL=maps/style.css.map */
